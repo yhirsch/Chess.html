@@ -31,7 +31,7 @@
 <body>
     <table>
         <tr>
-            <td class="black">Black</td>
+            
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
@@ -39,11 +39,12 @@
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
+            <td class="black">Black</td>
         </tr>
 
         <tr>
 
-            <td class="white">White</td>
+           
             <td class="black">Black</td>
             <td class="white">White</td>
             <td class="black">Black</td>
@@ -51,9 +52,10 @@
             <td class="black">Black</td>
             <td class="white">White</td>
             <td class="black">Black</td>
+            <td class="white">White</td>
         </tr>
         <tr>
-            <td class="black">Black</td>
+            
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
@@ -61,19 +63,11 @@
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
+            <td class="black">Black</td>
+
         </tr>
         <tr>
 
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-        </tr>
-        <tr>
             <td class="black">Black</td>
             <td class="white">White</td>
             <td class="black">Black</td>
@@ -84,7 +78,6 @@
             <td class="white">White</td>
         </tr>
         <tr>
-
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
@@ -93,19 +86,19 @@
             <td class="black">Black</td>
             <td class="white">White</td>
             <td class="black">Black</td>
-        </tr>
-        <tr>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
-            <td class="black">Black</td>
-            <td class="white">White</td>
         </tr>
         <tr>
 
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
+        </tr>
+        <tr>
             <td class="white">White</td>
             <td class="black">Black</td>
             <td class="white">White</td>
@@ -114,6 +107,18 @@
             <td class="black">Black</td>
             <td class="white">White</td>
             <td class="black">Black</td>
+        </tr>
+        <tr>
+
+
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
+            <td class="black">Black</td>
+            <td class="white">White</td>
         </tr>
 
 
